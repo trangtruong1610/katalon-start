@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test 1" time="42.622" tests="3" failures="0" errors="0">
+   <testsuite name="test 1" tests="3" failures="0" errors="0" time="42.622" timestamp="2020-06-20 12:07:07" hostname="admin - localhost" id="Test Suites/test 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/admin/Desktop/Katalon/katalon-start/Reports/20200620_120702/test 1/20200620_120702"/>
+         <property name="logFiles" value="/Users/admin/Desktop/Katalon/katalon-start/Reports/20200620_120702/test 1/20200620_120702/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="admin - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="7.5.5.1"/>
+         <property name="browser" value="Firefox 77.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="9e8e1fe6-fe2b-1f4b-bb6c-da26cfa4c41d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=\&quot;\&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/GG search" time="14.338" classname="Test Cases/GG search" status="PASSED">
+         <system-out><![CDATA[2020-06-20 12:07:07 - [TEST_CASE][PASSED] - Test Cases/GG search: Test Cases/GG search
+
+2020-06-20 12:07:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-06-20 12:07:08 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-06-20 12:07:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-06-20 12:07:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-06-20 12:07:15 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:17 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:17 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/input_ng nhp_q"), search_key): Text '1' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:18 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:18 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/input_ng nhp_q"), Keys.chord(RETURN)): Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:19 - [MESSAGE][PASSED] - Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:19 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2020-06-20 12:07:22 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GG search" time="12.059" classname="Test Cases/GG search" status="PASSED">
+         <system-out><![CDATA[2020-06-20 12:07:22 - [TEST_CASE][PASSED] - Test Cases/GG search: Test Cases/GG search
+
+2020-06-20 12:07:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-06-20 12:07:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2020-06-20 12:07:23 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-06-20 12:07:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-06-20 12:07:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-06-20 12:07:27 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:29 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:29 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/input_ng nhp_q"), search_key): Text '2' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:30 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:30 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/input_ng nhp_q"), Keys.chord(RETURN)): Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:31 - [MESSAGE][PASSED] - Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:31 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2020-06-20 12:07:34 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GG search" time="12.085" classname="Test Cases/GG search" status="PASSED">
+         <system-out><![CDATA[2020-06-20 12:07:34 - [TEST_CASE][PASSED] - Test Cases/GG search: Test Cases/GG search
+
+2020-06-20 12:07:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-06-20 12:07:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2020-06-20 12:07:36 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-06-20 12:07:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-06-20 12:07:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-06-20 12:07:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:41 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2020-06-20 12:07:41 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/input_ng nhp_q"), search_key): Text '3' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:42 - [MESSAGE][PASSED] - Text '3' is set on object 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/input_ng nhp_q"), Keys.chord(RETURN)): Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:43 - [MESSAGE][PASSED] - Keys 'RETURN + ' sent to object: 'Object Repository/Page_Google/input_ng nhp_q'
+
+2020-06-20 12:07:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2020-06-20 12:07:46 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-06-20 12:07:07 - [TEST_SUITE][PASSED] - test 1: Test Cases/GG search]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

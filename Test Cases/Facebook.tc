@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f2ccc43-600e-404c-9792-deadb16512c0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>184b819f-4e16-4310-a5fc-6c6b80c1d7f2</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad8c97f9-e333-4d3a-9c34-54e412ac5495</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
