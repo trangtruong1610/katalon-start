@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7bb5e74-c493-41ab-a53e-ba8cc7865429" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Files/account.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Data Files/account.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Include/config/log.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Include/config/log.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_email.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_email.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_pass.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_pass.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_u_0_3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch  Facebook/input_Mt khu_u_0_3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch/button_Thch.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Object Repository/Page_360F - Trang ch/button_Thch.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profiles/default.glbl" beforeDir="false" afterPath="$PROJECT_DIR$/Profiles/default.glbl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/smart_xpath/Object Repository/Page_Facebook - ng nhp hoc ng k/input_Mt khu_u_0_4_idRelative.png" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/smart_xpath/Object Repository/Page_Facebook - ng nhp hoc ng k/input_Mt khu_u_0_4_idRelative.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/smart_xpath/Object Repository/Page_Facebook - ng nhp hoc ng k/input_Mt khu_u_0_4_position.png" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/smart_xpath/Object Repository/Page_Facebook - ng nhp hoc ng k/input_Mt khu_u_0_4_position.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Facebook/Script1592632175566.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/Facebook/Script1592632175566.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Cases/Facebook.tc" beforeDir="false" afterPath="$PROJECT_DIR$/Test Cases/Facebook.tc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Suites/FB.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/Test Suites/FB.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Suites/FB.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Test Suites/FB.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console.properties" beforeDir="false" afterPath="$PROJECT_DIR$/console.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalon-start.prj" beforeDir="false" afterPath="$PROJECT_DIR$/katalon-start.prj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/external/com.katalon.katalon-studio-smart-xpath.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/external/com.katalon.katalon-studio-smart-xpath.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/external/com.kms.katalon.core.db.DatabaseSettings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/external/com.kms.katalon.core.db.DatabaseSettings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.composer.testcase.settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.webui.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.execution.webui.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.analytics.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.analytics.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.qtest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/settings/internal/com.kms.katalon.integration.qtest.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e5MAJPu18GfazKz6PwL18aEnp2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7bb5e74-c493-41ab-a53e-ba8cc7865429" name="Default Changelist" comment="" />
+      <created>1593606855055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593606855055</updated>
+      <workItem from="1593606856326" duration="5000" />
+      <workItem from="1593606888765" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
